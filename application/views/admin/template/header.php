@@ -6,23 +6,23 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title><?= $title['header']?></title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="<?= base_url();?>assets/plugins/fontawesome-free/css/all.min.css">
+  <link rel="stylesheet" href="https://objectstorage.ap-melbourne-1.oraclecloud.com/n/axoqk3ohodut/b/uts-fela/o/cssAdmin%2Fall.min.css">
   <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
-  <link rel="stylesheet" href="<?= base_url();?>assets/plugins/daterangepicker/daterangepicker.css">
+  <link rel="stylesheet" href="https://objectstorage.ap-melbourne-1.oraclecloud.com/n/axoqk3ohodut/b/uts-fela/o/cssAdmin%2Fdaterangepicker.css">
 
   <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700" rel="stylesheet">
   <script src="https://unpkg.com/ionicons@5.1.2/dist/ionicons.js"></script>
-  <link rel="stylesheet" href="<?= base_url();?>assets/plugins/icheck-bootstrap/icheck-bootstrap.min.css">
-  <link rel="stylesheet" href="<?= base_url();?>assets/plugins/select2/css/select2.min.css">
-  <link rel="stylesheet" href="<?= base_url();?>assets/plugins/datatables-bs4/css/dataTables.bootstrap4.min.css">
-  <link rel="stylesheet" href="<?= base_url();?>assets/plugins/datatables-responsive/css/responsive.bootstrap4.min.css">
-  <!-- <link rel="stylesheet" href="<?= base_url();?>assets/plugins/select2-bootstrap4-theme/select2-bootstrap4.min.css"> -->
-  <link rel="stylesheet" href="<?= base_url();?>assets/dist/css/adminlte.min.css">
-  <link rel="stylesheet" href="<?= base_url();?>assets/css/print.min.css">
-  <!-- <script src="<?= base_url();?>assets/css/print.css"></script> -->
-  <script src="<?= base_url();?>assets/plugins/jquery/jquery.min.js"></script>
+  <link rel="stylesheet" href="https://objectstorage.ap-melbourne-1.oraclecloud.com/n/axoqk3ohodut/b/uts-fela/o/cssAdmin%2Ficheck-bootstrap.min.css">
+  <link rel="stylesheet" href="https://objectstorage.ap-melbourne-1.oraclecloud.com/n/axoqk3ohodut/b/uts-fela/o/cssAdmin%2Fselect2.min.css">
+  <link rel="stylesheet" href="https://objectstorage.ap-melbourne-1.oraclecloud.com/n/axoqk3ohodut/b/uts-fela/o/cssAdmin%2FdataTables.bootstrap4.min.css">
+  <link rel="stylesheet" href="https://objectstorage.ap-melbourne-1.oraclecloud.com/n/axoqk3ohodut/b/uts-fela/o/cssAdmin%2Fresponsive.bootstrap4.min.css">
+  <!-- <link rel="stylesheet" href="https://objectstorage.ap-melbourne-1.oraclecloud.com/n/axoqk3ohodut/b/uts-fela/o/cssAdmin%2Fselect2-bootstrap4.min.css"> -->
+  <link rel="stylesheet" href="https://objectstorage.ap-melbourne-1.oraclecloud.com/n/axoqk3ohodut/b/uts-fela/o/cssAdmin%2Fadminlte.min.css">
+  <link rel="stylesheet" href="https://objectstorage.ap-melbourne-1.oraclecloud.com/n/axoqk3ohodut/b/uts-fela/o/cssAdmin%2Fprint.min.css">
+  <!-- <script src="https://objectstorage.ap-melbourne-1.oraclecloud.com/n/axoqk3ohodut/b/uts-fela/o/cssAdmin%2Fprint.css"></script> -->
+  <script src="https://objectstorage.ap-melbourne-1.oraclecloud.com/n/axoqk3ohodut/b/uts-fela/o/jsAdmin%2Fjquery.min.js"></script>
   <script src="https://code.jquery.com/jquery-1.12.3.min.js"></script>
-  <script src="<?= base_url();?>assets/bower_components/angular/angular.min.js"></script>
+  <script src="https://objectstorage.ap-melbourne-1.oraclecloud.com/n/axoqk3ohodut/b/uts-fela/o/jsAdmin%2Fangular.min.js"></script>
 
   <style>
     @media screen {

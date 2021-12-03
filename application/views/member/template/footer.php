@@ -21,14 +21,14 @@
   <!-- jQuery -->
   
   <!-- Bootstrap 4 -->
-  <script src="<?= base_url();?>assets/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="https://objectstorage.ap-melbourne-1.oraclecloud.com/n/axoqk3ohodut/b/uts-fela/o/jsMember%2Fbootstrap.bundle.min.js"></script>
   <!-- bs-custom-file-input -->
-  <script src="<?= base_url();?>assets/plugins/bs-custom-file-input/bs-custom-file-input.min.js"></script>
-  <script src="<?= base_url();?>assets/node_modules/sweetalert/dist/sweetalert.min.js"></script>
+  <script src="https://objectstorage.ap-melbourne-1.oraclecloud.com/n/axoqk3ohodut/b/uts-fela/o/jsMember%2Fbs-custom-file-input.min.js"></script>
+  <script src="https://objectstorage.ap-melbourne-1.oraclecloud.com/n/axoqk3ohodut/b/uts-fela/o/jsMember%2Fsweetalert.min.js"></script>
   <!-- AdminLTE App -->
-  <script src="<?= base_url();?>assets/dist/js/adminlte.min.js"></script>
+  <script src="https://objectstorage.ap-melbourne-1.oraclecloud.com/n/axoqk3ohodut/b/uts-fela/o/jsMember%2Fadminlte.min.js"></script>
   <!-- AdminLTE for demo purposes -->
-  <script src="<?= base_url();?>assets/dist/js/demo.js"></script>
+  <script src="https://objectstorage.ap-melbourne-1.oraclecloud.com/n/axoqk3ohodut/b/uts-fela/o/jsMember%2Fdemo.js"></script>
   <script type="text/javascript">
     $(document).ready(function () {
       bsCustomFileInput.init();

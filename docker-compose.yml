@@ -1,0 +1,35 @@
+version: "3.7"
+
+services:
+  mysqldb:
+    image: mysql:latest
+    container_name: mysqldb
+    volumes:
+      - ./mysqldb:/var/lib/mysql
+    environment:
+      - MYSQL_ROOT_PASSWORD= admin
+      - MYSQL_DATABASE= laundry
+      - MYSQL_USER= adminFela
+      - MYSQL_PASSWORD= S!ster21
+    networks:
+      backend:
+        aliases:
+          - mysqldb
+  app:
+    build:
+      context: '.'
+      dockerfile: Dockerfile
+    ports:
+      - 5000:80
+    volumes:
+      - ./:/var/www/html
+    depends_on:
+      - mysqldb
+    networks:
+      backend:
+        aliases:
+          - webphp
+
+networks:
+  backend:
+    name: backend-network
